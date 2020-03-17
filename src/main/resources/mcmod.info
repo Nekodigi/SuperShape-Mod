@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ssm",
+  "name": "SuperShape Mod",
+  "description": "Simple SuperShape",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nekodigi"],
+  "credits": "All my subscribers!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
