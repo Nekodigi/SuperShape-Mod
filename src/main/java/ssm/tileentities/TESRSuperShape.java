@@ -18,7 +18,7 @@ import ssm.proxy.ClientProxy;
 import ssm.utils.vector.Vector;
 import ssm.utils.vector.VectorUV;
 
-public class TESRSuperShape extends TileEntitySpecialRenderer<TileEntitySuperShape> {
+public class TESRSuperShape extends TileEntitySpecialRenderer<TileEntitySuperShape>{
     @Override
     public void render(TileEntitySuperShape te, double x, double y, double z, float partialTicks, int destroyStage, float alpha) {
         double fac = (double)te.getWorld().getTotalWorldTime()/100;
